@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/PtrClassicDefaultHeader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/PtrClassicFrameLayout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/PtrDefaultHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/PtrFrameLayout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/PtrHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/PtrUIHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/PtrUIHandlerHolder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/PtrUIHandlerHook.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/header/MaterialHeader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/header/MaterialProgressDrawable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/header/StoreHouseBarItem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/header/StoreHouseHeader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/header/StoreHousePath.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/indicator/PtrIndicator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/indicator/PtrTensionIndicator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/util/PtrCLog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ptr/util/PtrLocalDisplay.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ptr_rotate_arrow.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/cube_ptr_classic_default_header.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/cube_ptr_simple_loading.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/cube_ptr_attrs.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/cube_ptr_string.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
